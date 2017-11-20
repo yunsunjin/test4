@@ -1,3 +1,5 @@
 sunjinのテキスト
 
+develop からの編集
+
 Gitの使い方を勉強中
